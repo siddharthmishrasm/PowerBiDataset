@@ -1,0 +1,11 @@
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\PowerbiTry.exe.config
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\PowerbiTry.exe
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\PowerbiTry.pdb
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\obj\Debug\PowerbiTry.csprojAssemblyReference.cache
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\obj\Debug\PowerbiTry.csproj.CoreCompileInputs.cache
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\obj\Debug\PowerbiTry.csproj.CopyComplete
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\obj\Debug\PowerbiTry.exe
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\obj\Debug\PowerbiTry.pdb
+C:\Users\siddharth\source\repos\PowerbiTry\PowerbiTry\bin\Debug\Newtonsoft.Json.dll
